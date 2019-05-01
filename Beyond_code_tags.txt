@@ -82,7 +82,7 @@ Charisma:
 [roll]4d6*2[/roll] # Vulnerability
 
 # Combat Dice Monsters
-[monster]twig blight[/monster]: Attack: [roll]1d20+3[/roll] Damage: [roll](if([roll:-1:critical], =0, 1d4, 2{1d4}.expand()))+1[/roll] 
+[monster]twig blight[/monster]: Attack: [roll]1d20+3[/roll] Damage: [roll](if([roll:-1:critical],=0,1d4,2{1d4}.expand()))+1[/roll] 
 
 # Combat Dice Players
-Attack:[roll]1d20+5[/roll] Damage:[roll](if([roll:-1:critical],=0,2d6rr<=2,2{2d6rr<=2}.expand()))+3[/roll]
+Attack: [roll]1d20+5[/roll] Damage: [roll](if([roll:-1:critical],=0,2d6rr<=2,2{2d6rr<=2}.expand()))+3[/roll]
