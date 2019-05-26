@@ -10,5 +10,9 @@
 - Old gnome man drinking in Ol' Boar.
 - Unamed Nobleman reading in Ol' Boar.
 
+*Sunless Citadel:*
+- Meepo, Kobold, Keeper
+- Yusdrayl, Kobold, priestess ? 
+
 - Carlisle Bozak. [Intro](https://www.dndbeyond.com/forums/d-d-beyond-general/play-by-post/37396-tftyp-part-1-the-sunless-citadel-dm?comment=134)
 - Vim and Vau. [Intro](https://www.dndbeyond.com/forums/d-d-beyond-general/play-by-post/37396-tftyp-part-1-the-sunless-citadel-dm?comment=139)
